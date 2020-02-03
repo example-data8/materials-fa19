@@ -1,4 +1,4 @@
-# Data 8 Public Materials for Fall 2019
+# Data 8 Public Materials for Spring 2020 @ Example Institution (based on materials from Fall 2019 @ UC Berkeley)
 This repo contains the publicly available materials that are used in the Data 8 Foundations of Data Science course during the Fall 2019 semester.
 
 This includes: homeworks, labs, and notebooks used in lecture.
